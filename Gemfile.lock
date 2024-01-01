@@ -382,7 +382,7 @@ GEM
     raabro (1.4.0)
     racc (1.6.0)
     rack (2.2.8)
-    rack-cache (1.13.0)
+    rack-cache (1.15.0)
       rack (>= 0.4)
     rack-protection (3.1.0)
       rack (~> 2.2, >= 2.2.4)
@@ -597,7 +597,7 @@ DEPENDENCIES
   que
   queue_classic (>= 4.0.0.pre.beta1)
   racc (>= 1.4.6)
-  rack-cache (~> 1.2)
+  rack-cache (~> 1.15)
   rails!
   rake (>= 11.1)
   redcarpet (~> 3.2.3)

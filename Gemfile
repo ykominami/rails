@@ -16,7 +16,7 @@ gem "propshaft", ">= 0.1.7"
 gem "capybara", ">= 3.26"
 gem "selenium-webdriver", ">= 4.0.0"
 
-gem "rack-cache", "~> 1.2"
+gem "rack-cache", "~> 1.15"
 gem "stimulus-rails"
 gem "turbo-rails"
 gem "jsbundling-rails"
