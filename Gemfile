@@ -16,7 +16,7 @@ gem "propshaft", ">= 0.1.7"
 gem "capybara", ">= 3.26"
 gem "selenium-webdriver", ">= 4.0.0"
 
-gem "rack-cache", "~> 1.2"
+gem "rack-cache", "~> 1.15"
 gem "stimulus-rails"
 gem "turbo-rails"
 gem "jsbundling-rails"
@@ -45,7 +45,7 @@ end
 
 group :doc do
   gem "sdoc", ">= 2.4.0"
-  gem "redcarpet", "~> 3.2.3", platforms: :ruby
+  gem "redcarpet", "~> 3.6.0", platforms: :ruby
   gem "w3c_validators", "~> 1.3.7"
   gem "kindlerb", "~> 1.2.0"
   gem "rouge"
